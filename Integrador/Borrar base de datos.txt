@@ -1,0 +1,19 @@
+
+UPDATE departamento
+  SET No_departamento = 1, Num_ext = 18, Num_piso = 1, estatus = 0
+  WHERE No_departamento = 1;
+UPDATE departamento
+  SET No_departamento = 2, Num_ext = 18, Num_piso = 1, estatus = 0
+  WHERE No_departamento = 2;
+UPDATE departamento
+  SET No_departamento = 3, Num_ext = 18, Num_piso = 2, estatus = 0
+  WHERE No_departamento = 3;
+UPDATE departamento
+  SET No_departamento = 4, Num_ext = 18, Num_piso = 2, estatus = 0
+  WHERE No_departamento = 4;
+UPDATE departamento
+  SET No_departamento = 5, Num_ext = 18, Num_piso = 3, estatus = 0
+  WHERE No_departamento = 5;
+UPDATE departamento
+  SET No_departamento = 6, Num_ext = 18, Num_piso = 3, estatus = 0
+  WHERE No_departamento = 6;
